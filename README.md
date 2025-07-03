@@ -1,5 +1,5 @@
 # 💫 About Me:
-A techsplorer ,passionate about building scalable systems and elegant solutions. Currently exploring the intersection of distributed systems, cloud infrastructure, and AI-powered applications.<br><br>🔭 Currently working on distributed file systems and IoT security frameworks<br>🌱 Learning Functional Programming and advanced system design<br>👯 Looking to collaborate on open-source projects and innovative startups<br>💬 Ask me about Backend Development, Cloud Architecture, or System Design<br>📫 Reach me at: majumderlohit@gmail.com<br>⚡ Fun fact: You need to be good at dad jokes to conjure a word like "techsplorer"
+A techsplorer ,passionate about building scalable systems and elegant solutions. Currently exploring the intersection of distributed systems, cloud infrastructure, and AI-powered applications.<br><br>🔭 Currently working on distributed file systems and AI frameworks<br>🌱 Learning Functional Programming and advanced system design<br>👯 Looking to collaborate on open-source projects and innovative startups<br>💬 Ask me about Backend Development, Cloud Architecture, or System Design<br>📫 Reach me at: majumderlohit@gmail.com<br>⚡ Fun fact: You need to be good at dad jokes to conjure a word like "techsplorer"
 
 
 ## 🌐 Socials:
